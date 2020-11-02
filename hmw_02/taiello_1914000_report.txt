@@ -1,0 +1,3 @@
+Inpyt files used: AAPL_2012_06-21
+In order to accomplish this task I merged both the provided dataset, but for the goal of create OHLC dataset it was enough to use just the Message dataset, because give us the real exchange that has been done.
+The overbook dataset contains a Snapshot of the Orderbook within the level 10, but it didn’t give us any kind of information for the task assigned in the Homework 2.
